@@ -6,7 +6,7 @@
 # catalog-version 1.01
 Name:		texlive-coverpage
 Version:	1.01
-Release:	6
+Release:	7
 Summary:	Automatic cover page creation for scientific papers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/coverpage
