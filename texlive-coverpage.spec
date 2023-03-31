@@ -1,6 +1,6 @@
 Name:		texlive-coverpage
 Version:	63509
-Release:	1
+Release:	2
 Summary:	Automatic cover page creation for scientific papers
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/coverpage
