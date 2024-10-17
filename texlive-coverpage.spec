@@ -3,7 +3,7 @@ Version:	63509
 Release:	2
 Summary:	Automatic cover page creation for scientific papers
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/coverpage
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/coverpage
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/coverpage.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/coverpage.doc.r%{version}.tar.xz
